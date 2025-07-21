@@ -1,16 +1,15 @@
 # note
 
 A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
+Image app
+    1, Image home
+    ![](/Users/quyle/StudioProjects/ScreenMain.png)
+    2, Image add
+    ![](/Users/quyle/StudioProjects/ScreenAdd.png)
+    3, Image edit
+    ![](/Users/quyle/StudioProjects/edittext.png)
+    4,ApterChangeEditext
+    ![](/Users/quyle/StudioProjects/ApterChangeEditext.png)
+    5,Image Delete
+    ![](/Users/quyle/StudioProjects/imagedelete.png)
